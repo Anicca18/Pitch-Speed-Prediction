@@ -1,4 +1,5 @@
-![download](https://github.com/user-attachments/assets/a5a6cf11-bbe4-4492-bb10-d4fc795c24c0)
+![ebrugit2sqslgl3qfxgh](https://github.com/user-attachments/assets/74a3fbb4-85d8-4081-b097-91ac7b9de8b9)
+
 
 # Pitch-Speed-Prediction
 The aim of this project is to predict the pitch type and pitch speed of an individual pitcher during this year's World Series games featuring the Yankees and the Dodgers. The goal is to utilize machine learning models to make more accurate predictions and potentially outperform betting platforms like DraftKings.
